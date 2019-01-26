@@ -1,0 +1,14 @@
+Country,Age,Salary,Purchased
+Algeria,44,72000,No
+Tunis,27,48000,Yes
+Morocco,30,54000,No
+Tunis,38,61000,No
+Morocco,40,,Yes
+Algeria,35,58000,Yes
+Tunis,,52000,No
+Algeria,48,79000,Yes
+Morocco,50,83000,No
+Algeria,37,67000,Yes
+Tunis,22,50000,No
+Algeria,33,53000,No
+Morocco,44,47000,Yes
